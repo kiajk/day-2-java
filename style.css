@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+}
+
+li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#status {
+    text-align: center;
+    font-weight: bold;
+}
